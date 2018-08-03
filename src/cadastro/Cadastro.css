@@ -1,0 +1,37 @@
+.Cadastro{
+    background-color: yellow;
+    padding: 20px;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    border: 2px solid purple;
+    border-radius: 10px;
+}
+
+.Cadastro h2{
+    font-size: 50px;
+    color: purple;
+    text-shadow: 3px 3px black;
+    margin: 0 0 20px 0;
+}
+
+.Cadastro input{
+    padding: 10px;
+    font-size: 20px;
+    border: blue solid 2px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.Cadastro button{
+    border: solid 2px black;
+    background-color: purple;
+    border-radius: 20px;
+    height: 10vh;
+    font-size: 20px;
+    cursor: pointer;
+    width: 20vh;
+    margin: 20px;
+}

@@ -1,0 +1,8 @@
+.App{
+  background-color: beige;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+}
